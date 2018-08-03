@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dosshu Bonohoor</string>
+    <string name="log_out">Log Out</string>
 </resources>
