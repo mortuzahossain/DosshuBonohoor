@@ -85,7 +85,7 @@ public class DetailsFragment extends Fragment {
         openFromFolder.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                OpenFromFolder("FILENAME", name + ".pdf");
+                OpenFromFolder("FILENAME", name);
             }
         });
 
